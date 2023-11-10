@@ -5,14 +5,19 @@ body{
 h1{
     color: slategray;
     font-size: 9rem;
+    text-align: center;
+    border: 5px solid white;
+    border-radius: 25px;
 }
 
 h3{
     color: slateblue;
     font-size: 4rem;
+    text-align: center;
 }
 
 p{
     color: white;
     font-size: 1rem;
+    text-align: center;
 }
