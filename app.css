@@ -4,15 +4,15 @@ body{
 
 h1{
     color: slategray;
-    font-size: 5rem;
+    font-size: 9rem;
 }
 
 h3{
     color: slateblue;
-    font-size: 1rem;
+    font-size: 4rem;
 }
 
 p{
     color: white;
-    font-size: 0.5rem;
+    font-size: 1rem;
 }
